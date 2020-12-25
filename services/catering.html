@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="shortcut icon" href="/rcs/thumb.png">
+    <title>Services || catering</title>
+</head>
+
+<body onresize="drawcanvas()">
+    <img class="arrow" src="/rcs/arrow.svg" onclick="gohome()">
+    <div id="about" class="abt-cont">
+        <div class="left-side">
+            <div class="abt-data">
+                <h1 class="abt-slogo">Catering</h1>
+                <div class="abt-us">
+                    <p class="abt-desc">
+                        need to give best food for your guest with overwhelming service,we are the right people to
+                        you.our master chefs cook the delicious food,served to your guest with love
+                    </p>
+                </div>
+                <div class="abt-btn-cont">
+                    <button class="price">From &#8377; 10K</button>
+                    <button class="abt-btn" onclick="sendmsg()">Book Now</button>
+                </div>
+            </div>
+        </div>
+        <div class="canvas-cont catering">
+            <canvas id="white"></canvas>
+        </div>
+    </div>
+    <script src="/JS/canva.js"></script>
+</body>
+
+</html>

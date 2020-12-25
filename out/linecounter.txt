@@ -1,0 +1,451 @@
+===============================================================================
+EXTENSION NAME : linecounter
+EXTENSION VERSION : 0.2.7
+-------------------------------------------------------------------------------
+count time : 2020-12-21 18:30:40
+count workspace : e:\git_repos\jade-demo\public
+total files : 48
+total code lines : 1000
+total comment lines : 6
+total blank lines : 10
+
+    statistics
+   |      extension|     total code|  total comment|    total blank|percent|
+   -------------------------------------------------------------------------
+   |          .html|            589|              5|              6|     59|
+   |           .svg|             85|              0|              0|    8.5|
+   |            .js|             42|              0|              1|    4.2|
+   |           .css|            284|              1|              3|     28|
+   -------------------------------------------------------------------------
+404.html, code is 29, comment is 0, blank is 1.
+css\index.css, code is 174, comment is 1, blank is 2.
+css\style.css, code is 110, comment is 0, blank is 1.
+index.html, code is 170, comment is 5, blank is 5.
+JS\canva.js, code is 32, comment is 0, blank is 1.
+JS\index.js, code is 10, comment is 0, blank is 0.
+rcs\abt-img11.jpg, it is a binary file.
+rcs\arrow.svg, code is 40, comment is 0, blank is 0.
+rcs\ico\mail.svg, code is 1, comment is 0, blank is 0.
+rcs\ico\map-pin.svg, code is 1, comment is 0, blank is 0.
+rcs\ico\smartphone.svg, code is 1, comment is 0, blank is 0.
+rcs\ico\square.svg, code is 1, comment is 0, blank is 0.
+rcs\ico\whatsapp.svg, code is 41, comment is 0, blank is 0.
+rcs\img\car.jpg, it is a binary file.
+rcs\img\corporate.jpg, it is a binary file.
+rcs\img\DECORATION.jpg, it is a binary file.
+rcs\img\DJ.jpg, it is a binary file.
+rcs\img\flower.jpg, it is a binary file.
+rcs\img\MAKEUP.jpg, it is a binary file.
+rcs\img\photo.jpg, it is a binary file.
+rcs\img\WEDDING.jpg, it is a binary file.
+rcs\img\WELCOME.jpg, it is a binary file.
+rcs\logo.png, it is a binary file.
+rcs\ser\ser-bir.jpg, it is a binary file.
+rcs\ser\ser-car.jpg, it is a binary file.
+rcs\ser\ser-cat.jpg, it is a binary file.
+rcs\ser\ser-clg.jpg, it is a binary file.
+rcs\ser\ser-corp.jpg, it is a binary file.
+rcs\ser\ser-dec.jpg, it is a binary file.
+rcs\ser\ser-dj.jpg, it is a binary file.
+rcs\ser\ser-flo.jpg, it is a binary file.
+rcs\ser\ser-mak.jpg, it is a binary file.
+rcs\ser\ser-pho.jpg, it is a binary file.
+rcs\ser\ser-wed.jpg, it is a binary file.
+rcs\ser\ser-wel.jpg, it is a binary file.
+rcs\thumb.png, it is a binary file.
+services\car - Copy (7).html, code is 35, comment is 0, blank is 0.
+services\car - Copy (8).html, code is 35, comment is 0, blank is 0.
+services\car - Copy (9).html, code is 35, comment is 0, blank is 0.
+services\car.html, code is 35, comment is 0, blank is 0.
+services\corporate-event.html, code is 20, comment is 0, blank is 0.
+services\decoration.html, code is 35, comment is 0, blank is 0.
+services\dj.html, code is 20, comment is 0, blank is 0.
+services\flower.html, code is 35, comment is 0, blank is 0.
+services\makeup.html, code is 35, comment is 0, blank is 0.
+services\photography.html, code is 35, comment is 0, blank is 0.
+services\wedding.html, code is 35, comment is 0, blank is 0.
+services\welcome-bg.html, code is 35, comment is 0, blank is 0.
+===============================================================================
+===============================================================================
+EXTENSION NAME : linecounter
+EXTENSION VERSION : 0.2.7
+-------------------------------------------------------------------------------
+count time : 2020-12-21 18:51:22
+count workspace : e:\git_repos\jade-demo\public
+total files : 50
+total code lines : 1006
+total comment lines : 6
+total blank lines : 10
+
+    statistics
+   |      extension|     total code|  total comment|    total blank|percent|
+   -------------------------------------------------------------------------
+   |          .html|            589|              5|              6|     59|
+   |           .svg|             85|              0|              0|    8.4|
+   |            .js|             42|              0|              1|    4.2|
+   |           .css|            290|              1|              3|     29|
+   -------------------------------------------------------------------------
+404.html, code is 29, comment is 0, blank is 1.
+css\index.css, code is 174, comment is 1, blank is 2.
+css\style.css, code is 116, comment is 0, blank is 1.
+index.html, code is 170, comment is 5, blank is 5.
+JS\canva.js, code is 32, comment is 0, blank is 1.
+JS\index.js, code is 10, comment is 0, blank is 0.
+rcs\abt-img11.jpg, it is a binary file.
+rcs\arrow.svg, code is 40, comment is 0, blank is 0.
+rcs\ico\mail.svg, code is 1, comment is 0, blank is 0.
+rcs\ico\map-pin.svg, code is 1, comment is 0, blank is 0.
+rcs\ico\smartphone.svg, code is 1, comment is 0, blank is 0.
+rcs\ico\square.svg, code is 1, comment is 0, blank is 0.
+rcs\ico\whatsapp.svg, code is 41, comment is 0, blank is 0.
+rcs\img\birth.jpg, it is a binary file.
+rcs\img\car.jpg, it is a binary file.
+rcs\img\corporate.jpg, it is a binary file.
+rcs\img\DECORATION.jpg, it is a binary file.
+rcs\img\DJ.jpg, it is a binary file.
+rcs\img\flower.jpg, it is a binary file.
+rcs\img\MAKEUP.jpg, it is a binary file.
+rcs\img\photo.jpg, it is a binary file.
+rcs\img\sclg.jpg, it is a binary file.
+rcs\img\WEDDING.jpg, it is a binary file.
+rcs\img\WELCOME.jpg, it is a binary file.
+rcs\logo.png, it is a binary file.
+rcs\ser\ser-bir.jpg, it is a binary file.
+rcs\ser\ser-car.jpg, it is a binary file.
+rcs\ser\ser-cat.jpg, it is a binary file.
+rcs\ser\ser-clg.jpg, it is a binary file.
+rcs\ser\ser-corp.jpg, it is a binary file.
+rcs\ser\ser-dec.jpg, it is a binary file.
+rcs\ser\ser-dj.jpg, it is a binary file.
+rcs\ser\ser-flo.jpg, it is a binary file.
+rcs\ser\ser-mak.jpg, it is a binary file.
+rcs\ser\ser-pho.jpg, it is a binary file.
+rcs\ser\ser-wed.jpg, it is a binary file.
+rcs\ser\ser-wel.jpg, it is a binary file.
+rcs\thumb.png, it is a binary file.
+services\car - Copy (8).html, code is 35, comment is 0, blank is 0.
+services\car - Copy (9).html, code is 35, comment is 0, blank is 0.
+services\car.html, code is 35, comment is 0, blank is 0.
+services\corporate-event.html, code is 20, comment is 0, blank is 0.
+services\decoration.html, code is 35, comment is 0, blank is 0.
+services\dj.html, code is 20, comment is 0, blank is 0.
+services\flower.html, code is 35, comment is 0, blank is 0.
+services\makeup.html, code is 35, comment is 0, blank is 0.
+services\photography.html, code is 35, comment is 0, blank is 0.
+services\school-college.html, code is 35, comment is 0, blank is 0.
+services\wedding.html, code is 35, comment is 0, blank is 0.
+services\welcome-bg.html, code is 35, comment is 0, blank is 0.
+===============================================================================
+===============================================================================
+EXTENSION NAME : linecounter
+EXTENSION VERSION : 0.2.7
+-------------------------------------------------------------------------------
+count time : 2020-12-21 18:54:30
+count workspace : e:\git_repos\jade-demo\public
+total files : 50
+total code lines : 1011
+total comment lines : 6
+total blank lines : 16
+
+    statistics
+   |      extension|     total code|  total comment|    total blank|percent|
+   -------------------------------------------------------------------------
+   |          .html|            590|              5|             12|     58|
+   |           .svg|             85|              0|              0|    8.4|
+   |            .js|             42|              0|              1|    4.2|
+   |           .css|            294|              1|              3|     29|
+   -------------------------------------------------------------------------
+404.html, code is 29, comment is 0, blank is 1.
+css\index.css, code is 174, comment is 1, blank is 2.
+css\style.css, code is 120, comment is 0, blank is 1.
+index.html, code is 171, comment is 5, blank is 8.
+JS\canva.js, code is 32, comment is 0, blank is 1.
+JS\index.js, code is 10, comment is 0, blank is 0.
+rcs\abt-img11.jpg, it is a binary file.
+rcs\arrow.svg, code is 40, comment is 0, blank is 0.
+rcs\ico\mail.svg, code is 1, comment is 0, blank is 0.
+rcs\ico\map-pin.svg, code is 1, comment is 0, blank is 0.
+rcs\ico\smartphone.svg, code is 1, comment is 0, blank is 0.
+rcs\ico\square.svg, code is 1, comment is 0, blank is 0.
+rcs\ico\whatsapp.svg, code is 41, comment is 0, blank is 0.
+rcs\img\birth.jpg, it is a binary file.
+rcs\img\car.jpg, it is a binary file.
+rcs\img\corporate.jpg, it is a binary file.
+rcs\img\DECORATION.jpg, it is a binary file.
+rcs\img\DJ.jpg, it is a binary file.
+rcs\img\flower.jpg, it is a binary file.
+rcs\img\MAKEUP.jpg, it is a binary file.
+rcs\img\photo.jpg, it is a binary file.
+rcs\img\sclg.jpg, it is a binary file.
+rcs\img\WEDDING.jpg, it is a binary file.
+rcs\img\WELCOME.jpg, it is a binary file.
+rcs\logo.png, it is a binary file.
+rcs\ser\ser-bir.jpg, it is a binary file.
+rcs\ser\ser-car.jpg, it is a binary file.
+rcs\ser\ser-cat.jpg, it is a binary file.
+rcs\ser\ser-clg.jpg, it is a binary file.
+rcs\ser\ser-corp.jpg, it is a binary file.
+rcs\ser\ser-dec.jpg, it is a binary file.
+rcs\ser\ser-dj.jpg, it is a binary file.
+rcs\ser\ser-flo.jpg, it is a binary file.
+rcs\ser\ser-mak.jpg, it is a binary file.
+rcs\ser\ser-pho.jpg, it is a binary file.
+rcs\ser\ser-wed.jpg, it is a binary file.
+rcs\ser\ser-wel.jpg, it is a binary file.
+rcs\thumb.png, it is a binary file.
+services\car - Copy (8).html, code is 35, comment is 0, blank is 0.
+services\car - Copy (9).html, code is 35, comment is 0, blank is 0.
+services\car.html, code is 35, comment is 0, blank is 0.
+services\corporate-event.html, code is 20, comment is 0, blank is 0.
+services\decoration.html, code is 35, comment is 0, blank is 0.
+services\dj.html, code is 20, comment is 0, blank is 0.
+services\flower.html, code is 35, comment is 0, blank is 0.
+services\makeup.html, code is 35, comment is 0, blank is 0.
+services\photography.html, code is 35, comment is 0, blank is 0.
+services\school-college.html, code is 35, comment is 0, blank is 3.
+services\wedding.html, code is 35, comment is 0, blank is 0.
+services\welcome-bg.html, code is 35, comment is 0, blank is 0.
+===============================================================================
+===============================================================================
+EXTENSION NAME : linecounter
+EXTENSION VERSION : 0.2.7
+-------------------------------------------------------------------------------
+count time : 2020-12-21 19:42:45
+count workspace : e:\git_repos\jade-demo\public
+total files : 51
+total code lines : 1031
+total comment lines : 6
+total blank lines : 46
+
+    statistics
+   |      extension|     total code|  total comment|    total blank|percent|
+   -------------------------------------------------------------------------
+   |          .html|            598|              5|             43|     58|
+   |           .svg|             85|              0|              0|    8.2|
+   |            .js|             51|              0|              0|    4.9|
+   |           .css|            297|              1|              3|     29|
+   -------------------------------------------------------------------------
+404.html, code is 29, comment is 0, blank is 1.
+css\index.css, code is 174, comment is 1, blank is 2.
+css\style.css, code is 123, comment is 0, blank is 1.
+index.html, code is 171, comment is 5, blank is 8.
+JS\canva.js, code is 33, comment is 0, blank is 0.
+JS\index.js, code is 18, comment is 0, blank is 0.
+rcs\abt-img11.jpg, it is a binary file.
+rcs\arrow.svg, code is 40, comment is 0, blank is 0.
+rcs\ico\mail.svg, code is 1, comment is 0, blank is 0.
+rcs\ico\map-pin.svg, code is 1, comment is 0, blank is 0.
+rcs\ico\smartphone.svg, code is 1, comment is 0, blank is 0.
+rcs\ico\square.svg, code is 1, comment is 0, blank is 0.
+rcs\ico\whatsapp.svg, code is 41, comment is 0, blank is 0.
+rcs\img\birth.jpg, it is a binary file.
+rcs\img\car.jpg, it is a binary file.
+rcs\img\catering.jpg, it is a binary file.
+rcs\img\corporate.jpg, it is a binary file.
+rcs\img\DECORATION.jpg, it is a binary file.
+rcs\img\DJ.jpg, it is a binary file.
+rcs\img\flower.jpg, it is a binary file.
+rcs\img\MAKEUP.jpg, it is a binary file.
+rcs\img\photo.jpg, it is a binary file.
+rcs\img\sclg.jpg, it is a binary file.
+rcs\img\WEDDING.jpg, it is a binary file.
+rcs\img\WELCOME.jpg, it is a binary file.
+rcs\logo.png, it is a binary file.
+rcs\ser\ser-bir.jpg, it is a binary file.
+rcs\ser\ser-car.jpg, it is a binary file.
+rcs\ser\ser-cat.jpg, it is a binary file.
+rcs\ser\ser-clg.jpg, it is a binary file.
+rcs\ser\ser-corp.jpg, it is a binary file.
+rcs\ser\ser-dec.jpg, it is a binary file.
+rcs\ser\ser-dj.jpg, it is a binary file.
+rcs\ser\ser-flo.jpg, it is a binary file.
+rcs\ser\ser-mak.jpg, it is a binary file.
+rcs\ser\ser-pho.jpg, it is a binary file.
+rcs\ser\ser-wed.jpg, it is a binary file.
+rcs\ser\ser-wel.jpg, it is a binary file.
+rcs\thumb.png, it is a binary file.
+services\birthday.html, code is 36, comment is 0, blank is 3.
+services\car.html, code is 36, comment is 0, blank is 3.
+services\catering.html, code is 36, comment is 0, blank is 3.
+services\corporate-event.html, code is 20, comment is 0, blank is 2.
+services\decoration.html, code is 36, comment is 0, blank is 3.
+services\dj.html, code is 20, comment is 0, blank is 2.
+services\flower.html, code is 36, comment is 0, blank is 3.
+services\makeup.html, code is 36, comment is 0, blank is 3.
+services\photography.html, code is 36, comment is 0, blank is 3.
+services\school-college.html, code is 35, comment is 0, blank is 3.
+services\wedding.html, code is 35, comment is 0, blank is 3.
+services\welcome-bg.html, code is 36, comment is 0, blank is 3.
+===============================================================================
+===============================================================================
+EXTENSION NAME : linecounter
+EXTENSION VERSION : 0.2.7
+-------------------------------------------------------------------------------
+count time : 2020-12-23 23:28:46
+count workspace : e:\git_repos\jade-demo\public
+total files : 65
+total code lines : 1473
+total comment lines : 37
+total blank lines : 61
+
+    statistics
+   |      extension|     total code|  total comment|    total blank|percent|
+   -------------------------------------------------------------------------
+   |          .html|            937|              5|             55|     64|
+   |           .svg|             85|              0|              0|    5.8|
+   |            .py|             17|             31|              0|    1.2|
+   |            .js|             51|              0|              0|    3.5|
+   |           .css|            383|              1|              6|     26|
+   -------------------------------------------------------------------------
+404.html, code is 29, comment is 0, blank is 1.
+css\index.css, code is 174, comment is 1, blank is 2.
+css\mob_style.css, code is 86, comment is 0, blank is 3.
+css\style.css, code is 123, comment is 0, blank is 1.
+index.html, code is 171, comment is 5, blank is 8.
+JS\canva.js, code is 33, comment is 0, blank is 0.
+JS\index.js, code is 18, comment is 0, blank is 0.
+makemob.py, code is 17, comment is 31, blank is 0.
+mob_services\birthday.html, code is 31, comment is 0, blank is 1.
+mob_services\car.html, code is 30, comment is 0, blank is 1.
+mob_services\catering.html, code is 31, comment is 0, blank is 1.
+mob_services\corporate-event.html, code is 19, comment is 0, blank is 1.
+mob_services\decoration.html, code is 31, comment is 0, blank is 1.
+mob_services\dj.html, code is 19, comment is 0, blank is 1.
+mob_services\flower.html, code is 31, comment is 0, blank is 1.
+mob_services\makeup.html, code is 31, comment is 0, blank is 1.
+mob_services\photography.html, code is 31, comment is 0, blank is 1.
+mob_services\school-college.html, code is 31, comment is 0, blank is 1.
+mob_services\wedding.html, code is 31, comment is 0, blank is 1.
+mob_services\welcome-bg.html, code is 31, comment is 0, blank is 1.
+rcs\abt-img11.jpg, it is a binary file.
+rcs\arrow.svg, code is 40, comment is 0, blank is 0.
+rcs\ico\mail.svg, code is 1, comment is 0, blank is 0.
+rcs\ico\map-pin.svg, code is 1, comment is 0, blank is 0.
+rcs\ico\smartphone.svg, code is 1, comment is 0, blank is 0.
+rcs\ico\square.svg, code is 1, comment is 0, blank is 0.
+rcs\ico\whatsapp.svg, code is 41, comment is 0, blank is 0.
+rcs\img\birth.jpg, it is a binary file.
+rcs\img\car.jpg, it is a binary file.
+rcs\img\catering.jpg, it is a binary file.
+rcs\img\corporate.jpg, it is a binary file.
+rcs\img\DECORATION.jpg, it is a binary file.
+rcs\img\DJ.jpg, it is a binary file.
+rcs\img\flower.jpg, it is a binary file.
+rcs\img\MAKEUP.jpg, it is a binary file.
+rcs\img\photo.jpg, it is a binary file.
+rcs\img\sclg.jpg, it is a binary file.
+rcs\img\WEDDING.jpg, it is a binary file.
+rcs\img\WELCOME.jpg, it is a binary file.
+rcs\logo.png, it is a binary file.
+rcs\ser\ser-bir.jpg, it is a binary file.
+rcs\ser\ser-car.jpg, it is a binary file.
+rcs\ser\ser-cat.jpg, it is a binary file.
+rcs\ser\ser-clg.jpg, it is a binary file.
+rcs\ser\ser-corp.jpg, it is a binary file.
+rcs\ser\ser-dec.jpg, it is a binary file.
+rcs\ser\ser-dj.jpg, it is a binary file.
+rcs\ser\ser-flo.jpg, it is a binary file.
+rcs\ser\ser-mak.jpg, it is a binary file.
+rcs\ser\ser-pho.jpg, it is a binary file.
+rcs\ser\ser-wed.jpg, it is a binary file.
+rcs\ser\ser-wel.jpg, it is a binary file.
+rcs\thumb.png, it is a binary file.
+services\birthday.html, code is 35, comment is 0, blank is 3.
+services\car.html, code is 35, comment is 0, blank is 3.
+services\catering.html, code is 35, comment is 0, blank is 3.
+services\corporate-event.html, code is 20, comment is 0, blank is 2.
+services\decoration.html, code is 35, comment is 0, blank is 3.
+services\dj.html, code is 20, comment is 0, blank is 2.
+services\flower.html, code is 35, comment is 0, blank is 3.
+services\makeup.html, code is 35, comment is 0, blank is 3.
+services\photography.html, code is 35, comment is 0, blank is 3.
+services\school-college.html, code is 35, comment is 0, blank is 3.
+services\wedding.html, code is 35, comment is 0, blank is 3.
+services\welcome-bg.html, code is 35, comment is 0, blank is 3.
+===============================================================================
+===============================================================================
+EXTENSION NAME : linecounter
+EXTENSION VERSION : 0.2.7
+-------------------------------------------------------------------------------
+count time : 2020-12-23 23:33:14
+count workspace : e:\git_repos\jade-demo\public
+total files : 65
+total code lines : 1545
+total comment lines : 37
+total blank lines : 95
+
+    statistics
+   |      extension|     total code|  total comment|    total blank|percent|
+   -------------------------------------------------------------------------
+   |          .html|           1009|              5|             90|     65|
+   |           .svg|             85|              0|              0|    5.5|
+   |            .py|             17|             31|              0|    1.1|
+   |            .js|             51|              0|              0|    3.3|
+   |           .css|            383|              1|              5|     25|
+   -------------------------------------------------------------------------
+404.html, code is 84, comment is 0, blank is 14.
+css\index.css, code is 174, comment is 1, blank is 2.
+css\mob_style.css, code is 86, comment is 0, blank is 2.
+css\style.css, code is 123, comment is 0, blank is 1.
+index.html, code is 171, comment is 5, blank is 8.
+JS\canva.js, code is 33, comment is 0, blank is 0.
+JS\index.js, code is 18, comment is 0, blank is 0.
+makemob.py, code is 17, comment is 31, blank is 0.
+mob_services\birthday.html, code is 32, comment is 0, blank is 3.
+mob_services\car.html, code is 31, comment is 0, blank is 3.
+mob_services\catering.html, code is 32, comment is 0, blank is 3.
+mob_services\corporate-event.html, code is 20, comment is 0, blank is 2.
+mob_services\decoration.html, code is 32, comment is 0, blank is 3.
+mob_services\dj.html, code is 19, comment is 0, blank is 2.
+mob_services\flower.html, code is 32, comment is 0, blank is 3.
+mob_services\makeup.html, code is 32, comment is 0, blank is 3.
+mob_services\photography.html, code is 32, comment is 0, blank is 3.
+mob_services\school-college.html, code is 31, comment is 0, blank is 3.
+mob_services\wedding.html, code is 32, comment is 0, blank is 3.
+mob_services\welcome-bg.html, code is 32, comment is 0, blank is 3.
+rcs\abt-img11.jpg, it is a binary file.
+rcs\arrow.svg, code is 40, comment is 0, blank is 0.
+rcs\ico\mail.svg, code is 1, comment is 0, blank is 0.
+rcs\ico\map-pin.svg, code is 1, comment is 0, blank is 0.
+rcs\ico\smartphone.svg, code is 1, comment is 0, blank is 0.
+rcs\ico\square.svg, code is 1, comment is 0, blank is 0.
+rcs\ico\whatsapp.svg, code is 41, comment is 0, blank is 0.
+rcs\img\birth.jpg, it is a binary file.
+rcs\img\car.jpg, it is a binary file.
+rcs\img\catering.jpg, it is a binary file.
+rcs\img\corporate.jpg, it is a binary file.
+rcs\img\DECORATION.jpg, it is a binary file.
+rcs\img\DJ.jpg, it is a binary file.
+rcs\img\flower.jpg, it is a binary file.
+rcs\img\MAKEUP.jpg, it is a binary file.
+rcs\img\photo.jpg, it is a binary file.
+rcs\img\sclg.jpg, it is a binary file.
+rcs\img\WEDDING.jpg, it is a binary file.
+rcs\img\WELCOME.jpg, it is a binary file.
+rcs\logo.png, it is a binary file.
+rcs\ser\ser-bir.jpg, it is a binary file.
+rcs\ser\ser-car.jpg, it is a binary file.
+rcs\ser\ser-cat.jpg, it is a binary file.
+rcs\ser\ser-clg.jpg, it is a binary file.
+rcs\ser\ser-corp.jpg, it is a binary file.
+rcs\ser\ser-dec.jpg, it is a binary file.
+rcs\ser\ser-dj.jpg, it is a binary file.
+rcs\ser\ser-flo.jpg, it is a binary file.
+rcs\ser\ser-mak.jpg, it is a binary file.
+rcs\ser\ser-pho.jpg, it is a binary file.
+rcs\ser\ser-wed.jpg, it is a binary file.
+rcs\ser\ser-wel.jpg, it is a binary file.
+rcs\thumb.png, it is a binary file.
+services\birthday.html, code is 36, comment is 0, blank is 3.
+services\car.html, code is 35, comment is 0, blank is 3.
+services\catering.html, code is 36, comment is 0, blank is 3.
+services\corporate-event.html, code is 20, comment is 0, blank is 2.
+services\decoration.html, code is 36, comment is 0, blank is 3.
+services\dj.html, code is 20, comment is 0, blank is 2.
+services\flower.html, code is 36, comment is 0, blank is 3.
+services\makeup.html, code is 36, comment is 0, blank is 3.
+services\photography.html, code is 36, comment is 0, blank is 3.
+services\school-college.html, code is 35, comment is 0, blank is 3.
+services\wedding.html, code is 35, comment is 0, blank is 3.
+services\welcome-bg.html, code is 36, comment is 0, blank is 3.
+===============================================================================

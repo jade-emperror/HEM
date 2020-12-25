@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/index.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;800&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
+    <link rel="shortcut icon" href="/rcs/thumb.png">
+
+    <title>Happy Event Management</title>
+</head>
+
+<body onresize="drawcanvas()">
+    <nav id="navbar" class="bar">
+        <img class="logo" src="rcs/logo.png" onclick="gohome()">
+        <div class="link-cont">
+            <a href="#about" id="abt" onclick=setHeaderActive(id) class="nav-link">About</a>
+            <a href="#service" id="serv" onclick=setHeaderActive(id) class="nav-link">Services</a>
+            <a href="#contact" id="cont" class="nav-link">Contact</a>
+        </div>
+    </nav>
+    <div id="about" class="abt-cont">
+        <div class="left-side">
+            <div class="abt-data">
+                <h1 class="abt-slogo">ONE OF THE BEST EVENT MANAGEMENT<BR>COMPANY</h1>
+                <div class="abt-us">
+                    <h3 class="abtt">About Us</h3>
+                    <p class="abt-desc">We are One of the best event handlers in chennai.Organized over 50+ events in
+                        chennai with happy customers.
+                        the quality of service provided is outstanding with no compromise in quality.
+                    </p>
+                </div>
+                <div class="abt-btn-cont">
+                    <button class="abt-btn" onclick="window.location.href='#contact'" >Contact Us</button>
+
+                </div>
+            </div>
+        </div>
+        <div class="canvas-cont">
+            <canvas id="white"></canvas>
+        </div>
+    </div>
+    <h1 id="service" class="serv-hdr">Services</h1>
+    <div class="service-cont">
+        <div id="corporate-event" onclick="routeme(id)" class="serv-wrap">
+            <div class="servimg-wrap">
+                <img src="rcs/ser/ser-corp.jpg" class="serv-img">
+            </div>
+            <div class="servdesc">
+                <span class="ser-desc">Carporate<br>Event</span>
+            </div>
+        </div>
+        <div id="wedding" onclick="routeme(id)" class="serv-wrap">
+            <div class="servimg-wrap">
+                <img src="rcs/ser/ser-wed.jpg" class="serv-img">
+            </div>
+            <div class="servdesc">
+                <span class="ser-desc">Wedding<br>Planner</span>
+            </div>
+        </div>
+        <div id="birthday" onclick="routeme(id)" class="serv-wrap">
+            <div class="servimg-wrap">
+                <img src="rcs/ser/ser-bir.jpg" class="serv-img">
+            </div>
+            <div class="servdesc">
+                <span class="ser-desc">Birthday<br>Parties</span>
+            </div>
+        </div>
+        <div id="dj" onclick="routeme(id)" class="serv-wrap">
+            <div class="servimg-wrap">
+                <img src="rcs/ser/ser-dj.jpg" class="serv-img">
+            </div>
+            <div class="servdesc">
+                <span class="ser-desc">Dj & Lights</span>
+            </div>
+        </div>
+        <div id="catering" onclick="routeme(id)" class="serv-wrap">
+            <div class="servimg-wrap">
+                <img src="rcs/ser/ser-cat.jpg" class="serv-img">
+            </div>
+            <div class="servdesc">
+                <span class="ser-desc">catereing<br>services</span>
+            </div>
+        </div>
+        <div id="decoration" onclick="routeme(id)" class="serv-wrap">
+            <div class="servimg-wrap">
+                <img src="rcs/ser/ser-dec.jpg" class="serv-img">
+            </div>
+            <div class="servdesc">
+                <span class="ser-desc">decorations</span>
+            </div>
+        </div>
+        <div id="makeup" onclick="routeme(id)" class="serv-wrap">
+            <div class="servimg-wrap">
+                <img src="rcs/ser/ser-mak.jpg" class="serv-img">
+            </div>
+            <div class="servdesc">
+                <span class="ser-desc">makeup</span>
+            </div>
+        </div>
+        <div id="car" onclick="routeme(id)" class="serv-wrap">
+            <div class="servimg-wrap">
+                <img src="rcs/ser/ser-car.jpg" class="serv-img">
+            </div>
+            <div class="servdesc">
+                <span class="ser-desc">Luxury<br>Cars</span>
+            </div>
+        </div>
+        <div id="photography" onclick="routeme(id)" class="serv-wrap">
+            <div class="servimg-wrap">
+                <img src="rcs/ser/ser-pho.jpg" class="serv-img">
+            </div>
+            <div class="servdesc">
+                <span class="ser-desc">Photography</span>
+            </div>
+        </div>
+        <div id="welcome-bg" onclick="routeme(id)" class="serv-wrap">
+            <div class="servimg-wrap">
+                <img src="rcs/ser/ser-wel.jpg" class="serv-img">
+            </div>
+            <div class="servdesc">
+                <span class="ser-desc">Welcome<br>boy & girl</span>
+            </div>
+        </div>
+        <div id="flower" onclick="routeme(id)" class="serv-wrap">
+            <div class="servimg-wrap">
+                <img src="rcs/ser/ser-flo.jpg" class="serv-img">
+            </div>
+            <div class="servdesc">
+                <span class="ser-desc">Flower & panthal <br>decorations</span>
+            </div>
+        </div>
+        <div id="school-college" onclick="routeme(id)" class="serv-wrap">
+            <div class="servimg-wrap">
+                <img src="rcs/ser/ser-clg.jpg" class="serv-img">
+            </div>
+            <div class="servdesc">
+                <span class="ser-desc">school & college<br>Event</span>
+            </div>
+        </div>
+    </div>
+    <h1 id="contact" class="serv-hdr cnt">Contact Us</h1>
+    <div class="contact">
+        <div class="hem">
+            <h3 class="paci hdr1">Happy events</h3>
+            <h1 class="paci hdr2">managements</h1>
+        </div>
+        <div class="contact-cont">
+            <div class="cont-holder">
+                <div class="holder">
+                    <img src="rcs/ico/smartphone.svg" class="ico"><span class="ico-content">9884787821 </span>
+                </div>
+                <div class="holder">
+                    <img src="rcs/ico/mail.svg" class="ico"><span class="ico-content">dennishabraham08@gmail.com</span>
+                </div>
+                <div class="holder">
+                    <img src="rcs/ico/whatsapp.svg" class="ico"><span class="ico-content">6383682421</span>
+                </div>
+                <div class="holder">
+                    <img src="rcs/ico/map-pin.svg" class="ico"><span class="ico-content">no.1a,5th street,mgr nagar,
+                        pattabiram,chennai-600072</span>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="JS/index.js"></script>
+    <script src="JS/canva.js"></script>
+
+    <!-- firebase scripts-->
+    <!-- The core Firebase JS SDK is always required and must be listed first -->
+    <script src="/__/firebase/8.2.1/firebase-app.js"></script>
+
+    <!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#available-libraries -->
+    <script src="/__/firebase/8.2.1/firebase-analytics.js"></script>
+
+    <!-- Initialize Firebase -->
+    <script src="/__/firebase/init.js"></script>
+</body>
+
+</html>

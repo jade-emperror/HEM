@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="shortcut icon" href="/rcs/thumb.png">
+    <title>Services || Wedding Planner</title>
+</head>
+
+<body onresize="drawcanvas()">
+    <img class="arrow" src="/rcs/arrow.svg" onclick="gohome()">
+    <div id="about" class="abt-cont">
+        <div class="left-side">
+            <div class="abt-data">
+                <h1 class="abt-slogo">Wedding Planner</h1>
+                <div class="abt-us">
+                    <p class="abt-desc">
+                        We make your once in a life time moment a forever memories to cherish with our planning experts
+                    </p>
+                </div>
+                <div class="abt-btn-cont">
+                    <button class="price">From &#8377; 1 Lakh</button>
+                    <button class="abt-btn" onclick="sendmsg()">Book Now</button>
+                </div>
+            </div>
+        </div>
+        <div class="canvas-cont wed">
+            <canvas id="white"></canvas>
+        </div>
+    </div>
+    <script src="/JS/canva.js"></script>
+</body>
+
+</html>
